@@ -7,7 +7,4 @@ Tesla
 Mercedes
 KIA
 Honda
-Hyundai
-Nissan
-Lexus
-Ferrari
+Jeep
