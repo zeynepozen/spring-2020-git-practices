@@ -7,3 +7,5 @@ orange
 brown
 white
 ##yellow
+Gray
+Indigo
