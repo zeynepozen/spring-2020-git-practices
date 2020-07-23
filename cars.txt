@@ -4,3 +4,6 @@ Mazda
 BWM
 Jaguar
 Tesla
+Mercedes
+KIA
+Honda
